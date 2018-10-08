@@ -9,7 +9,7 @@ https://hakin9.org/download/reverse-engineering-and-password-breaking/
 ![alt text](Screenshots/0000.png "intro")
 
 
-![alt text](Screenshots/figure\ -2-\ Attacker\ Interface.png)
+![alt text](Screenshots/figure%20-2-%20Attacker%20Interface.png)
 
 
 ![alt text](Screenshots/dns_p.png "DNS spoofing scenario")
