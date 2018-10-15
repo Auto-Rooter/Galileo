@@ -12,6 +12,9 @@ https://hakin9.org/download/reverse-engineering-and-password-breaking/
 ![alt text](Screenshots/figure%20-2-%20Attacker%20Interface.PNG)
 
 
+![alt text](Screenshots/Figure_27_Defender%20Mode.png)
+
+
 ![alt text](Screenshots/figure%20-4-%20ARP%20Spoofing%20in%20progress.PNG "ARP Spoofing attack")
 
 
