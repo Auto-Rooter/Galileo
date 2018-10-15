@@ -21,7 +21,7 @@ https://hakin9.org/download/reverse-engineering-and-password-breaking/
 ![alt text](Screenshots/Figure%20-6-%20Detect%20ARP%20Spoofing.PNG "ARP spoofing attack detection")
 
 
-![alt text](Screenshots/Figure%20-7-%20DNS%20Spoofing%20based%20on%20MITM.png "DNS spoofing scenario")
+![alt text](Screenshots/dns_p.png "DNS spoofing scenario")
 
 
 ![alt text](Screenshots/Figure%20-9-%20DNS%20Spoofing%20Attack%20in%20progress.PNG "DNS Spoofing attack")
@@ -33,11 +33,11 @@ https://hakin9.org/download/reverse-engineering-and-password-breaking/
 ![alt text](Screenshots/Figure%20-11-%20%20DNS%20Spoofing%20Attack%20Detected.PNG "DNS spoofing attack detection")
 
 
-![alt text](Screenshots/999.png "web apps attacks")
+![alt text](Screenshots/Figure_28_Login%20Form.png "web apps attacks")
 
 
-![alt text](Screenshots/0000.png "web apps attacks detection")
+![alt text](Screenshots/figure_29_SQLI_Xss%20attack.png "web apps attacks detection")
 
 
-![alt text](Screenshots/8899.png "Tor traffics detector")
+![alt text](Screenshots/figure_31_detect_Tor.png "Tor traffics detector")
 
