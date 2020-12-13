@@ -1,4 +1,4 @@
-# Radar
+# Galileo
 Lightweight Network Intrusion detection system based on scapy library (Fourth year Project) 
 
 Published at Hakin9 Magazine ("Build your own NIDS with scapy") :
